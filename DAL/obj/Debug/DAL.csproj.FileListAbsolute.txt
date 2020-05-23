@@ -1,0 +1,5 @@
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ListaCliente\DAL\bin\Debug\DAL.dll
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ListaCliente\DAL\bin\Debug\DAL.pdb
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ListaCliente\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ListaCliente\DAL\obj\Debug\DAL.dll
+C:\Users\Deka\Documents\Visual Studio 2015\Projects\ListaCliente\DAL\obj\Debug\DAL.pdb
